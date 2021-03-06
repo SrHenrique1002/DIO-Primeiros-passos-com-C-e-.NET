@@ -1,0 +1,16 @@
+C:\Workdash\Teste\Teste\bin\Debug\net5.0\Teste.exe
+C:\Workdash\Teste\Teste\bin\Debug\net5.0\Teste.deps.json
+C:\Workdash\Teste\Teste\bin\Debug\net5.0\Teste.runtimeconfig.json
+C:\Workdash\Teste\Teste\bin\Debug\net5.0\Teste.runtimeconfig.dev.json
+C:\Workdash\Teste\Teste\bin\Debug\net5.0\Teste.dll
+C:\Workdash\Teste\Teste\bin\Debug\net5.0\ref\Teste.dll
+C:\Workdash\Teste\Teste\bin\Debug\net5.0\Teste.pdb
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\Teste.csprojAssemblyReference.cache
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\Teste.AssemblyInfoInputs.cache
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\Teste.AssemblyInfo.cs
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\Teste.csproj.CoreCompileInputs.cache
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\Teste.dll
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\ref\Teste.dll
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\Teste.pdb
+C:\Workdash\Teste\Teste\obj\Debug\net5.0\Teste.genruntimeconfig.cache
